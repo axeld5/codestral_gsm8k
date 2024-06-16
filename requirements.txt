@@ -1,0 +1,4 @@
+datasets==2.20.0
+mistralai==0.4.0
+pandas==2.2.2
+python-dotenv==1.0.1
